@@ -1,0 +1,19 @@
+D:\SSD 2018\18-10-02 Calculator with forms\18-10-02 Calculator with forms\bin\Debug\18-10-02 Calculator with forms.exe.config
+D:\SSD 2018\18-10-02 Calculator with forms\18-10-02 Calculator with forms\bin\Debug\18-10-02 Calculator with forms.exe
+D:\SSD 2018\18-10-02 Calculator with forms\18-10-02 Calculator with forms\bin\Debug\18-10-02 Calculator with forms.pdb
+D:\SSD 2018\18-10-02 Calculator with forms\18-10-02 Calculator with forms\obj\Debug\18-10-02 Calculator with forms.csprojResolveAssemblyReference.cache
+D:\SSD 2018\18-10-02 Calculator with forms\18-10-02 Calculator with forms\obj\Debug\_18_10_02_Calculator_with_forms.Form1.resources
+D:\SSD 2018\18-10-02 Calculator with forms\18-10-02 Calculator with forms\obj\Debug\_18_10_02_Calculator_with_forms.Properties.Resources.resources
+D:\SSD 2018\18-10-02 Calculator with forms\18-10-02 Calculator with forms\obj\Debug\18-10-02 Calculator with forms.csproj.GenerateResource.Cache
+D:\SSD 2018\18-10-02 Calculator with forms\18-10-02 Calculator with forms\obj\Debug\18-10-02 Calculator with forms.exe
+D:\SSD 2018\18-10-02 Calculator with forms\18-10-02 Calculator with forms\obj\Debug\18-10-02 Calculator with forms.pdb
+G:\SSD 2018\18-10-02 Calculator with forms\18-10-02 Calculator with forms\bin\Debug\18-10-02 Calculator with forms.exe.config
+G:\SSD 2018\18-10-02 Calculator with forms\18-10-02 Calculator with forms\bin\Debug\18-10-02 Calculator with forms.exe
+G:\SSD 2018\18-10-02 Calculator with forms\18-10-02 Calculator with forms\bin\Debug\18-10-02 Calculator with forms.pdb
+G:\SSD 2018\18-10-02 Calculator with forms\18-10-02 Calculator with forms\obj\Debug\18-10-02 Calculator with forms.csprojAssemblyReference.cache
+G:\SSD 2018\18-10-02 Calculator with forms\18-10-02 Calculator with forms\obj\Debug\_18_10_02_Calculator_with_forms.Form1.resources
+G:\SSD 2018\18-10-02 Calculator with forms\18-10-02 Calculator with forms\obj\Debug\_18_10_02_Calculator_with_forms.Properties.Resources.resources
+G:\SSD 2018\18-10-02 Calculator with forms\18-10-02 Calculator with forms\obj\Debug\18-10-02 Calculator with forms.csproj.GenerateResource.cache
+G:\SSD 2018\18-10-02 Calculator with forms\18-10-02 Calculator with forms\obj\Debug\18-10-02 Calculator with forms.csproj.CoreCompileInputs.cache
+G:\SSD 2018\18-10-02 Calculator with forms\18-10-02 Calculator with forms\obj\Debug\18-10-02 Calculator with forms.exe
+G:\SSD 2018\18-10-02 Calculator with forms\18-10-02 Calculator with forms\obj\Debug\18-10-02 Calculator with forms.pdb
